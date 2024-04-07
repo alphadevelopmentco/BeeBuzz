@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114708249147",
+    "project_id": "beebuzz-dda69",
+    "storage_bucket": "beebuzz-dda69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114708249147:android:f9b40f6c4ce74ce7fa3a1e",
+        "android_client_info": {
+          "package_name": "com.alphadevelopmentco.BeeBuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYfTSR4CDd11foswPPA_unUe_9fbuuMyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

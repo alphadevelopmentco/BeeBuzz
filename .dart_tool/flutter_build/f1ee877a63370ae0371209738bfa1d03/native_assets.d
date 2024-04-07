@@ -1,0 +1,1 @@
+ /Users/khaldounbadreah/Projects/Alpha/Alpha\ Buzz/BeeBuzz/.dart_tool/flutter_build/f1ee877a63370ae0371209738bfa1d03/native_assets.yaml: 
