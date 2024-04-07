@@ -50,5 +50,5 @@ class KText {
   final String privacyAndPolice = 'سياسة الخصوصية';
   final String addProfilePic = 'إضافة صورة شخصية';
   final String versionCode = '1.0.6';
-  final String privacyPolicy = 'https://drive.google.com/file/d/1fXT9bKo6-Z1APLdXnCL7K6ucopYabm30/view?usp=sharing';
+  final String privacyPolicy = 'https://drive.google.svg.com/file/d/1fXT9bKo6-Z1APLdXnCL7K6ucopYabm30/view?usp=sharing';
 }
