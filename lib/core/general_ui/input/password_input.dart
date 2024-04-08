@@ -43,7 +43,7 @@ class PasswordInput extends StatelessWidget {
           borderRadius: BorderRadius.circular(width(10)),
           border: Border.all(
               width: width(1),
-              color: error ? color.kDarkRedColor : Colors.transparent)),
+              color: error ? color.darkColor : Colors.transparent)),
       child: TextFormField(
         onTap: () {},
         onChanged: (value){
@@ -55,9 +55,9 @@ class PasswordInput extends StatelessWidget {
         style: TextStyle(
             fontFamily: fonts.medium,
             fontSize: width(16),
-            color: color.kDarkBlackColor,
+            color: color.darkColor,
             fontWeight: FontWeight.w700),
-        cursorColor: color.kDarkOrangColor,
+        cursorColor: color.lightDarkColor,
         cursorRadius: Radius.circular(10.w),
         maxLines: 1,
         obscureText: show,
@@ -78,11 +78,11 @@ class PasswordInput extends StatelessWidget {
               child: show
                   ? Icon(
                       Icons.visibility_off_outlined,
-                      color: color.kDarkGray,
+                      color: color.lightDarkColor,
                     )
                   : Icon(
                       Icons.visibility_outlined,
-                      color: color.kDarkGray,
+                      color: color.lightDarkColor,
                     ),
             ),
           ),
@@ -111,7 +111,7 @@ class PasswordInput extends StatelessWidget {
           hintStyle: TextStyle(
               fontSize: width(16),
               fontFamily: fonts.medium,
-              color: color.kLightGray,
+              color: color.lightDarkColor,
               fontWeight: FontWeight.w400),
         ),
       ),

@@ -79,8 +79,8 @@ flutter:
     - assets/lang/
     - assets/images/
     - assets/icons/bottom_bar/
-    - assets/general/
-    - assets/home/
+    - assets/icons/general/
+    - assets/icons/home/
 
 
   fonts:

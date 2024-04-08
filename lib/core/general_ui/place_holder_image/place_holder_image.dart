@@ -20,7 +20,7 @@ class PlaceHolderImage extends StatelessWidget {
       width: width(w),
       height: height(h),
       child: LoadingAnimationWidget.staggeredDotsWave(
-        color: color.kLightGray.withOpacity(0.7),
+        color: color.darkColor.withOpacity(0.7),
         size: size,
       ),
     );

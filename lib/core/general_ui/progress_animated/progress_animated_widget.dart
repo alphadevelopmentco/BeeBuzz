@@ -42,7 +42,7 @@ class _LoadingLineState extends State<LoadingLine>
             width: width(widget.w),
             height: height(widget.h),
             decoration: BoxDecoration(
-              color: color.kLightGray.withOpacity(0.2),
+              color: color.darkColor.withOpacity(0.2),
               borderRadius: BorderRadius.circular(width(5)),
             ),
             alignment: Alignment.centerRight,
